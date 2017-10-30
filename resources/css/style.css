@@ -1,0 +1,65 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.upper h1{
+  font-size:70px;
+  font-weight: bold;
+  color: white;
+  }
+.linky ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.upper{
+      background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+ }
+  .upper a{
+    font-size:18px;
+    color:white;
+}
+.middle h2{
+  font-size:32px;
+  font-weight:bold;
+}
+h3{
+  font-size:23px;
+  font-weight:bold;
+}
+p{
+  font-size:14px;
+}
+.lower h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+footer{
+  background-color: dimgray;
+
+  }
+.copyright {
+    font-size: 11px;
+    color: white;
+    float: left;
+
+}
+.footlinky a{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding: 4px;
+}
+.footlinky ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+.footlinky li{
+  float: left;
+}
